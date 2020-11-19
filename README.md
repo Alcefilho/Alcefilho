@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
 
+<p align="center">
+  <img width="250" src="https://www.reddit.com/r/gifs/comments/67gmzn/universe/">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alcebiadesfilho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alcebiadesfilho/" height="30" width="40" /></a>
