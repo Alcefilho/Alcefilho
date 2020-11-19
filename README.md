@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
 
-<p align="center">
-  <img width="550" src="https://media1.giphy.com/media/njZPp4pQ0g4fe/giphy.gif?cid=ecf05e475radfhhe46t3tiiuv6t08a3k82yr9vpjoeqh3gs0&rid=giphy.gif">
-</p>
+
+![image](https://media1.giphy.com/media/njZPp4pQ0g4fe/giphy.gif?cid=ecf05e475radfhhe46t3tiiuv6t08a3k82yr9vpjoeqh3gs0&rid=giphy.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
