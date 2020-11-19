@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alcebiadesfilho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alcebiadesfilho/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/alcebiadesfilho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/alcebiadesfilho" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alcebiadesfilho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alcebiadesfilho/" height="30" width="40" /></a>
+<a href="/www.kaggle.com/alcebiadesfilho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/alcebiadesfilho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
