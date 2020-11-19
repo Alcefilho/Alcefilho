@@ -5,6 +5,7 @@
 
 
 ![image](https://media1.giphy.com/media/njZPp4pQ0g4fe/giphy.gif?cid=ecf05e475radfhhe46t3tiiuv6t08a3k82yr9vpjoeqh3gs0&rid=giphy.gif)
+![image](https://media1.giphy.com/media/3ov9k2TJJplyLnGCOc/giphy.gif?cid=ecf05e4782cf2d0abbd37ff57227733682e54101d8404969&rid=giphy.gif)
 
 
 <h3 align="left">Connect with me:</h3>
