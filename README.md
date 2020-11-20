@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alcebiades Filho</h1>
+<h1 align="center">Hi, I'm Alcebiades Filho</h1>
 <h3 align="center">Physical Engineering student with a more computational and automation bias. Python programming and a huge passion in Machine Learning, Data Science and IoT projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
