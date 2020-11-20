@@ -6,7 +6,6 @@
 
 ![image](https://media0.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
