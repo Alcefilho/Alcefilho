@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif">
+<img hight="300" width="900" alt="GIF" align="center" src="https://media0.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif">
 </div>
 
 
