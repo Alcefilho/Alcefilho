@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alcebiades Filho</h1>
 <h3 align="center">Physical Engineering student with a more computational and automation bias. Python programming and a huge passion in Machine Learning, Data Science and IoT projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alcefilho&label=Profile%20views&color=0e75b6&style=flat" alt="alcefilho" /> </p>
 <p align="center"> <img src="https://img.shields.io/badge/code-python-brightgreen" alt="alcefilho" /></p>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif">
