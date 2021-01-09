@@ -9,12 +9,12 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlceFilho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alcebiadesfilho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14145420/alcefilho)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlceFilho&theme=tokyonight)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlceFilho&theme=tokyonight)](https://github.com/AlceFilho/github-readme-stats)
-
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlceFilho)](https://github.com/AlceFilho/github-readme-stats)
-
+!<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alcefilho&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alcefilho&repo=convoychat" />
+</a>
 
 ![Profile views](https://gpvc.arturio.dev/AlceFilho)  
 
