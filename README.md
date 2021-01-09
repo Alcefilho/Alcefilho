@@ -10,6 +10,6 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlceFilho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlceFilho)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlceFilho&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/AlceFilho)  
