@@ -10,10 +10,10 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
 
 !<a href="https://github.com/Alcefilho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alcefilho&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Alcefilho&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Alcefilho/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alcefilho&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Alcefilho&repo=convoychat" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/AlceFilho)  
