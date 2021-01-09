@@ -11,7 +11,7 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlceFilho&theme=tokyonight)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlceFilho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlceFilho&theme=tokyonight)](https://github.com/AlceFilho/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlceFilho&repo=github-readme-stats)](https://github.com/AlceFilho/github-readme-stats)
 
