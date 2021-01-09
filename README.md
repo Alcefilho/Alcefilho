@@ -1,12 +1,5 @@
 ### Hi, I'm Alcebiades
 ####   Physical Engineering student with a more computational and automation bias. Python programming and a huge passion in Machine Learning, Data Science and IoT projects.
-<div align="center">
-<img hight="300" width="900" alt="GIF" align="center" src="https://media0.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif">
-</div>
-
-
-
-
 
 Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
