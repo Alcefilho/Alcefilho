@@ -10,6 +10,7 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcefilho&layout=compacte&theme=tokyonight)](https://github.com/Alcefilho)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alcefilho&show_icons=true&theme=tokyonight)
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alcefilho)]
+
+
 ![Profile views](https://gpvc.arturio.dev/AlceFilho)  
 
