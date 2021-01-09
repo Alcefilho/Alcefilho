@@ -8,14 +8,7 @@ Skills: Python / Docker / ELK Stack / AWS / Machine Learning
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlceFilho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alcebiadesfilho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14145420/alcefilho)  
 
-
-!<a href="https://github.com/Alcefilho/Alcefilho">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=Alcefilho&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/Alcefilho/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alcefilho&repo=Alcefilho" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcefilho&layout=compact)](https://github.com/Alcefilho)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alcefilho&show_icons=true&theme=tokyonight)
 ![Profile views](https://gpvc.arturio.dev/AlceFilho)  
 
